@@ -1,0 +1,46 @@
+{
+    "manifest": {
+        "author": "🧁jaccal The Cupcake Bean🧁#8311",
+        "name": "Hopes Peak Academy Handbook",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/565653541134532620\/976287679991930940\/20220517_205824.gif"
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf",
+        "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf",
+        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976288588864032778\/calibri-bold.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "mention_highlight": -15449249,
+        "active_channel": -15449249,
+        "statusbar": -15260368,
+        "input_background": -15118208,
+        "background_secondary": 0
+    },
+    "colors": {
+        "primary_dark_360": -16777216,
+        "focus_primary_700": -1644826
+    },
+    "drawable_tints": {},
+    "raws": {
+        "reconnect": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976289616061665341\/danganronpa_select.mp3",
+        "stream_started": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976290159576367134\/7_a_m_monokuma_alarm.mp3",
+        "stream_ended": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976290452519149588\/monokuma_nighttime.mp3",
+        "undeafen": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976289913517510736\/monokuma.mp3",
+        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976289913517510736\/monokuma.mp3",
+        "deafen": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976289616061665341\/danganronpa_select.mp3",
+        "mute": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976289616061665341\/danganronpa_select.mp3",
+        "stream_user_left": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976289913517510736\/monokuma.mp3",
+        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976289616061665341\/danganronpa_select.mp3",
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976291426059038740\/danganronpa.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/934869929784664074\/976291417024520263\/kamakura_yas_queen.mp3"
+    }
+}
